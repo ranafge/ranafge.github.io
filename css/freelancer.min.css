@@ -270,10 +270,10 @@ a:active, a:focus, a:hover {
     background-color: white;
 }
 .text-primary {
-    color: #18bc9c!important;
+    color: rgba(0,0,0,.9)!important;
 }
 .text-secondary {
-    color: #2c3e50!important;
+    color: rgba(0,0,0,.9)!important;
 }
 .btn-primary {
     background-color: white;
