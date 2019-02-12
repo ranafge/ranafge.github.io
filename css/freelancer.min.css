@@ -7,6 +7,7 @@ body {
     color: #212529;
     text-align: left;
     background-color: #212529!important;
+
 }
 h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
@@ -150,7 +151,7 @@ header.masthead h1 {
 header.masthead h2 {
     font-size: 1.75em;
 }
-}.portfolio {
+.portfolio {
     margin-bottom: -15px;
 }
 .portfolio .portfolio-item {
@@ -274,14 +275,18 @@ a:active, a:focus, a:hover {
 .bg-primary {
     background-color: #212529!important;
 }
+
 .bg-secondary {
     background-color: #212529!important;
 }
+.text-white {
+    color: #f8f9fa!important;
+}
 .text-primary {
-    color: #adb5bd!important;
+    color: #f8f9fa!important;
 }
 .text-secondary {
-    color: #adb5bd!important;
+    color: #f8f9fa!important;
 }
 .btn-primary {
     background-color: white;
