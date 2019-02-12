@@ -13,6 +13,8 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
     font-family: Montserrat;
     background-color: #212529!important;
+    color: #f8f9fa!important;
+    #text:#f8f9fa!important;
 }
 hr.star-dark, hr.star-light {
     max-width: 15rem;
