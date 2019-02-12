@@ -82,7 +82,7 @@ section h2 {
     font-family: Montserrat;
 }
 #mainNav .navbar-brand {
-    color: #fff;
+    color: white;
 
 }
 #mainNav .navbar-nav {
@@ -90,16 +90,16 @@ section h2 {
     letter-spacing: .0625rem;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link {
-    color: #fff;
+    color: white;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-    color: #fff;
+    color: white;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
-    color: #fff;
+    color: white;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-    color: #18bc9c;
+    color: white;
 }
 #mainNav .navbar-toggler {
     font-size: 80%;
